@@ -3,7 +3,7 @@ app=FastAPI()
 
 @app.get("/")
 async def root():
-    return {"message":"Hello World from Smurfcoders"}
+    return {"message":"Hello World after  docker compose setup"}
 
 @app.get("/test")
 async def root():

@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+venv
+.idea
+.git
+.DS_Store
+*.log
+testCICD.pem
+
